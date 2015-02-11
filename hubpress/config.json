@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "hinaloe",
-    "repositoryName": "hubpress",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"hinaloe","repositoryName":"hubpress","branch":"gh-pages"},"site":{"title":"HinaPress","logo":"https://avatars.githubusercontent.com/u/5253290?v=3","url":"http://hinaloe.github.io/hubpress"},"socialnetwork":{"googleplus":"hnle0","github":"hinaloe"},"theme":{"name":"Casper","url":"http://hinaloe.github.io/hubpress/themes/Casper"}}
