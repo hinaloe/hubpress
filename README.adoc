@@ -11,6 +11,12 @@ NOTE: HubPress is actually in preview, if you find some bugs come to see us.
 
 Documentation is rapidly evolving as the project gains momentum. Check back regularly for more tips on how to use HubPress.
 
+== Browser compatibility
+
+HubPress is compatible with Chrome and Chrome for Android.
+
+Firefox will be compatible soon, actually we encountered some bugs with IndexedDB, for the preview you should prefer use Chrome.
+
 == Getting Started
 
 === Installation
@@ -155,10 +161,17 @@ By default, the publication date is the date of the day to which you introduced 
 
 For example :
 [source, asciidoc]
+<<<<<<< HEAD
 ----
 = Blog Title
 :published_at: 2015-01-31
 ----
+=======
+----
+= Blog Title
+:published_at: 2015-01-31
+----
+>>>>>>> origin/master
 
 ===== Tags and Categories
 
@@ -174,3 +187,4 @@ For example :
 == Credits
 
 Thanks to https://github.com/jaredmorgs[Jared Morgan] for initially tidying up the README you see here, and continuing to be the "docs guy" for HubPress.
+Thanks to https://github.com/takkyuuplayer[takkyuuplayer] to have translated the README into Japanese
