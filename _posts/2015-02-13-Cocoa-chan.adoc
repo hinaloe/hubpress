@@ -1,5 +1,5 @@
 = Cocoa-chan
-:hp-image: https://raw.githubusercontent.com/hinaloe/hubpress/gh-pages/images/a036444.jpg
+:hp-image: http://github.com/hinaloe/hubpress/images/a036444.jpg
 
 ココア！ココア！ココア！ココアぁぁあああわぁああああああああああああああああああああああん！！！
 あぁああああ…ああ…あっあっー！あぁああああああ！！！ココアココアココアぁああぁわぁああああ！！！
