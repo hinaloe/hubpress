@@ -1,7 +1,3 @@
-Original: https://github.com/HubPress/hubpress.io/blob/8c2c9059e457f882b8e6a9230a2addbda58015f5/README.adoc[8c2c9059e4]
-
-Diff from the latest: https://github.com/HubPress/hubpress.io/compare/master...8c2c9059e457f882b8e6a9230a2addbda58015f5[master...8c2c9059e4]
-
 = HubPress
 
 == HubPress とはなにか？
@@ -128,9 +124,9 @@ NOTE: ブログへの画像の投稿については `/images/README.adoc` を参
 
 *Google Analytics* フィールドの設定により ブログサイトで Google Analytics を利用可能です。
 
-===== Disquss Shortname
+===== Disqus Shortname
 
-The *Disquss shortname* field takes your Discuss user name. Only the user name is required, not a link to your profile page.
+The *Disqus shortname* field takes your Disqus URL/shortname that is specified when you register a new site for Disqus. Only the shortname is required, not a link to your profile page.
 
 ==== Social Network
 

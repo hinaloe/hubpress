@@ -15,7 +15,7 @@ Documentation is rapidly evolving as the project gains momentum. Check back regu
 
 HubPress is compatible with Chrome and Chrome for Android.
 
-Firefox will be compatible soon, actually we encountered some bugs with IndexedDB, for the preview you should prefer use Chrome.
+Chrome Beta and Firefox will be compatible soon, actually we encountered some bugs with IndexedDB, for the preview you should prefer use Chrome.
 
 == Getting Started
 
@@ -116,9 +116,9 @@ The *Theme* is selectable from the list of themes stored in the `/themes` direct
 
 The *Google Analytics* field takes the unique Google Analytics code generated for the site.
 
-===== Disquss Shortname
+===== Disqus Shortname
 
-The *Disquss shortname* field takes your Discuss user name. Only the user name is required, not a link to your profile page.
+The *Disqus shortname* field takes your Disqus URL/shortname that is specified when you register a new site for Disqus. Only the shortname is required, not a link to your profile page.
 
 ==== Social Network
 
