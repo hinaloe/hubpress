@@ -1,0 +1,5 @@
+= Hinagiku fes!
+:hp-tags: 桂ヒナギク
+:hp-image:https://raw.githubusercontent.com/hinaloe/hubpress/gh-pages/images/20080302161513.jpg
+
+ヒナ祭り祭りが近い
