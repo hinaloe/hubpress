@@ -177,17 +177,10 @@ By default, the publication date is the date you created the Blog Post. You can 
 
 . :published_at: Example
 [source, asciidoc]
-<<<<<<< HEAD
 ----
 = Blog Title
 :published_at: 2015-01-31
 ----
-=======
-----
-= Blog Title
-:published_at: 2015-01-31
-----
->>>>>>> origin/master
 
 ==== :hp-tags: for Metadata Tags
 
