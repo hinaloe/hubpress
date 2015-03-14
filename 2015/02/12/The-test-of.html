@@ -11,9 +11,9 @@
     <link href="//fonts.googleapis.com/css?family=Noto+Sans:300,400,700" rel="stylesheet" type="text/css">
     <link href="//fonts.googleapis.com/css?family=Noto+Serif:400,700,400italic" rel="stylesheet" type="text/css">
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-    <link href="https://hinaloe.github.io/hubpress/themes/Saga/assets/css/style.css?v=1.0.0" rel="stylesheet" type="text/css">
-    <link href="https://hinaloe.github.io/hubpress/themes/Saga/assets/css/animate.min.css?v=1.0.0" rel="stylesheet" type="text/css">
-    <link href="https://hinaloe.github.io/hubpress/themes/Saga/favicon.ico" rel="shortcut icon">
+    <link href="//hinaloe.github.io/hubpress/themes/Saga/assets/css/style.css?v=1.0.0" rel="stylesheet" type="text/css">
+    <link href="//hinaloe.github.io/hubpress/themes/Saga/assets/css/animate.min.css?v=1.0.0" rel="stylesheet" type="text/css">
+    <link href="//hinaloe.github.io/hubpress/themes/Saga/favicon.ico" rel="shortcut icon">
     <link rel="canonical" href="https://hinaloe.github.io/hubpress/2015/02/12/The-test-of.html" />
     
     <meta property="og:site_name" content="HinaPress" />
@@ -22,7 +22,7 @@
     <meta property="og:description" content="テスト記事。..." />
     <meta property="og:url" content="https://hinaloe.github.io/hubpress/2015/02/12/The-test-of.html" />
     <meta property="article:published_time" content="2015-02-11T15:00:00.000Z" />
-    <meta property="article:modified_time" content="2015-02-25T20:09:01.022Z" />
+    <meta property="article:modified_time" content="2015-03-14T06:57:53.102Z" />
     <meta property="article:tag" content="テスト" />
     <meta property="article:tag" content="test" />
     
@@ -46,7 +46,7 @@
     "headline": "The test of 日本語のタイトル",
     "url": "https://hinaloe.github.io/hubpress/2015/02/12/The-test-of.html",
     "datePublished": "2015-02-11T15:00:00.000Z",
-    "dateModified": "2015-02-25T20:09:01.022Z",
+    "dateModified": "2015-03-14T06:57:53.102Z",
     "keywords": "テスト, test",
     "description": "テスト記事。..."
 }
@@ -54,8 +54,9 @@
 
     <meta name="generator" content="Ghost ?" />
     <link rel="alternate" type="application/rss+xml" title="HinaPress" href="https://hinaloe.github.io/hubpress/rss" />
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/default.min.css">
 </head>
-<body class="post-template tag-undefined tag-undefined">
+<body class="post-template tag- tag-test">
     <header id="header" class="animated fadeIn">
     <div class="header-background">
     <section class="blog-content">
@@ -70,14 +71,14 @@
     </section>
     <section class="header-content">
         <h1 class="post-title animated fadeInUp">The test of 日本語のタイトル</h1>
-        <span class="post-data"><span class="date animated fadeInUp"><i class="fa fa-clock-o"></i> <time class="timesince date" data-timesince="1423666800" datetime="2015-02-12T00:00" title="12 February 2015">14 days ago</time></span>
-            <span class="tags animated fadeInUp"><i class="fa fa-tags"></i> <a href="https://hinaloe.github.io/hubpress/tag/テスト">テスト</a>, <a href="https://hinaloe.github.io/hubpress/tag/test">test</a></span>
+        <span class="post-data"><span class="date animated fadeInUp"><i class="fa fa-clock-o"></i> <time class="timesince date" data-timesince="1423666800" datetime="2015-02-12T00:00" title="12 February 2015">2015-02-12 00:00:00<ago class="ago"></time></span>
+            <span class="tags animated fadeInUp"><i class="fa fa-tags"></i> <a href="https://hinaloe.github.io/hubpress/tag/">テスト</a>, <a href="https://hinaloe.github.io/hubpress/tag/test">test</a></span>
             <span class="author animated fadeInUp"><i class="fa fa-user"></i> <a href="">Hinaloe</a></span></span>
     </section>
     </div>
 </header>
 <main id="main" class="content">
-    <article itemtype="http://schema.org/BlogPosting" class="animated fadeIn content post post tag-undefined tag-undefined">
+    <article itemtype="http://schema.org/BlogPosting" class="animated fadeIn content post post tag- tag-test">
         <section class="post-content">
             <div class="paragraph">
 <p>テスト記事。</p>
@@ -114,8 +115,19 @@
           </section>
         </section>
     </footer>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js?v="></script>
-    <script src="https://hinaloe.github.io/hubpress/themes/Saga/assets/js/scripts.js?v=1.0.0"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js?v="></script> <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment-with-locales.min.js?v="></script> <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js?v="></script> 
+      <script type="text/javascript">
+        jQuery( document ).ready(function() {
+          // change date with ago
+          jQuery('ago.ago').each(function(){
+            var element = jQuery(this).parent();
+            element.html( moment(element.text()).fromNow());
+          });
+        });
+
+        hljs.initHighlightingOnLoad();      
+      </script>
+    <script src="//hinaloe.github.io/hubpress/themes/Saga/assets/js/scripts.js?v=1.0.0"></script>
     
 </body>
 </html>
