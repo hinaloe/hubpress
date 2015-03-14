@@ -11,9 +11,9 @@
     <link href="//fonts.googleapis.com/css?family=Noto+Sans:300,400,700" rel="stylesheet" type="text/css">
     <link href="//fonts.googleapis.com/css?family=Noto+Serif:400,700,400italic" rel="stylesheet" type="text/css">
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-    <link href="https://hinaloe.github.io/hubpress/themes/Saga/assets/css/style.css?v=1.0.0" rel="stylesheet" type="text/css">
-    <link href="https://hinaloe.github.io/hubpress/themes/Saga/assets/css/animate.min.css?v=1.0.0" rel="stylesheet" type="text/css">
-    <link href="https://hinaloe.github.io/hubpress/themes/Saga/favicon.ico" rel="shortcut icon">
+    <link href="//hinaloe.github.io/hubpress/themes/Saga/assets/css/style.css?v=1.0.0" rel="stylesheet" type="text/css">
+    <link href="//hinaloe.github.io/hubpress/themes/Saga/assets/css/animate.min.css?v=1.0.0" rel="stylesheet" type="text/css">
+    <link href="//hinaloe.github.io/hubpress/themes/Saga/favicon.ico" rel="shortcut icon">
     <link rel="canonical" href="https://hinaloe.github.io/hubpress/2015/02/13/Cocoa-chan.html" />
     
     <meta property="og:site_name" content="HinaPress" />
@@ -23,7 +23,7 @@
     <meta property="og:url" content="https://hinaloe.github.io/hubpress/2015/02/13/Cocoa-chan.html" />
     <meta property="og:image" content="https://raw.githubusercontent.com/hinaloe/hubpress/gh-pages/images/a036444.jpg" />
     <meta property="article:published_time" content="2015-02-12T15:00:00.000Z" />
-    <meta property="article:modified_time" content="2015-02-25T20:09:01.002Z" />
+    <meta property="article:modified_time" content="2015-03-14T06:57:53.093Z" />
     
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Cocoa-chan" />
@@ -46,7 +46,7 @@
     "headline": "Cocoa-chan",
     "url": "https://hinaloe.github.io/hubpress/2015/02/13/Cocoa-chan.html",
     "datePublished": "2015-02-12T15:00:00.000Z",
-    "dateModified": "2015-02-25T20:09:01.002Z",
+    "dateModified": "2015-03-14T06:57:53.093Z",
     "image": "https://raw.githubusercontent.com/hinaloe/hubpress/gh-pages/images/a036444.jpg",
     "description": "ココア！ココア！ココア！ココアぁぁあああわぁああああああああああああああああああああああん！！！ あぁああああ…ああ…あっあっー！あぁああああああ！！！ココアココアココアぁああぁわぁああああ！！！ あぁクンカクンカ！クンカクンカ！スーハースーハー！スーハースーハー！いい匂いだなぁ…くんくん んはぁっ！保登心愛たんのピンクベージュの髪をクンカクンカしたいお！クンカクンカ！あぁあ！！ 間違えた！モフモフしたいお！モフモフ！モフモフ！髪髪モフモフ！カリカリモフモフ…きゅんきゅんきゅい！！ のココアたんかわいかったよぅ！！あぁぁああ…あああ…あっあぁああああ！！ふぁぁあああんんっ！！ アニメ2期決まって良かったねココアたん！あぁあああああ！かわいい！ココアたん！かわいい！あっああぁああ！ コミック4巻も発売されて嬉し…いやぁああああああ！！！にゃああああああああん！..."
 }
@@ -54,6 +54,7 @@
 
     <meta name="generator" content="Ghost ?" />
     <link rel="alternate" type="application/rss+xml" title="HinaPress" href="https://hinaloe.github.io/hubpress/rss" />
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/default.min.css">
 </head>
 <body class="post-template">
     <header id="header" class="animated fadeIn" style="background-image: url(https://raw.githubusercontent.com/hinaloe/hubpress/gh-pages/images/a036444.jpg)">
@@ -70,7 +71,7 @@
     </section>
     <section class="header-content">
         <h1 class="post-title animated fadeInUp">Cocoa-chan</h1>
-        <span class="post-data"><span class="date animated fadeInUp"><i class="fa fa-clock-o"></i> <time class="timesince date" data-timesince="1423753200" datetime="2015-02-13T00:00" title="13 February 2015">13 days ago</time></span>
+        <span class="post-data"><span class="date animated fadeInUp"><i class="fa fa-clock-o"></i> <time class="timesince date" data-timesince="1423753200" datetime="2015-02-13T00:00" title="13 February 2015">2015-02-13 00:00:00<ago class="ago"></time></span>
             
             <span class="author animated fadeInUp"><i class="fa fa-user"></i> <a href="">Hinaloe</a></span></span>
     </section>
@@ -139,8 +140,19 @@
           </section>
         </section>
     </footer>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js?v="></script>
-    <script src="https://hinaloe.github.io/hubpress/themes/Saga/assets/js/scripts.js?v=1.0.0"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js?v="></script> <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment-with-locales.min.js?v="></script> <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js?v="></script> 
+      <script type="text/javascript">
+        jQuery( document ).ready(function() {
+          // change date with ago
+          jQuery('ago.ago').each(function(){
+            var element = jQuery(this).parent();
+            element.html( moment(element.text()).fromNow());
+          });
+        });
+
+        hljs.initHighlightingOnLoad();      
+      </script>
+    <script src="//hinaloe.github.io/hubpress/themes/Saga/assets/js/scripts.js?v=1.0.0"></script>
     
 </body>
 </html>
