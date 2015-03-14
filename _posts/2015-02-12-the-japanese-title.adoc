@@ -1,2 +1,3 @@
-= a日本語のタイトル
+= 日本語のタイトル
+:hp-alt-title: the japanese title
 テスト記事。
