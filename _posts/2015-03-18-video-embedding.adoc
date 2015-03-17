@@ -1,3 +1,4 @@
 = ひと目で、尋常じゃない動画埋め込みだと見抜いたよ
+:hp-alt-title: video embedding
 
 video::i7AlgsPOTkY[youtube]
