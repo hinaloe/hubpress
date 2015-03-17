@@ -1,4 +1,5 @@
 = ひと目で、尋常じゃない動画埋め込みだと見抜いたよ
 :hp-alt-title: video embedding
+:hp-image: https://i.ytimg.com/vi/i7AlgsPOTkY/hqdefault.jpg?sigh=htQss0G5CZy5TJ20GsW882h7RNM
 
 video::i7AlgsPOTkY[youtube]
