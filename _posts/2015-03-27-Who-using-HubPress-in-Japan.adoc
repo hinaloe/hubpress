@@ -1,0 +1,12 @@
+= 誰がHubPressを使ってるの？
+:hp-alt-title: Who using HubPress in Japan
+:hp-tags: HubPress
+:hp-image: http://hubpress.io/img/logo.png
+
+Q. HubPressなんて使ってる人いるの？
+A. 今のところ約1500フォークだしまぁそういうこと。
+
+Q. 日本では?
+A. 日本語でHubPressを紹介してる記事は少ない......まだ片手で数えれそう。私は好きだよ？こういうネタ味のあるジェネレータ。
+
+ちなみに https://github.com/HubPress/hubpress.io/network/members  からフォーク一覧(1000越えてるから一部だけだけれども)見れるけれど日本人らしいのはほとんど見つからなかったぽよ。あってもテストしたぐらいまたはフォークしただけで放置されて...... 
