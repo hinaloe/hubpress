@@ -1,0 +1,19 @@
+= sudosan.netが再開したらしい
+
+:hp-alt-title: restart sudosannet
+:hp-tags: dust
+
+https://sudosan.net/[sudosan.net]がシンガポールのVPSに移して再開したらしい
+
+
+[quote, 'https://twitter.com/sudosan/status/615041714235912192']
+____
+復活した https://sudosan.net/fu-kkatsu-sita/
+____
+
+
+
+++++
+<blockquote class="twitter-tweet" lang="ja"><p lang="ja" dir="ltr">復活した <a href="https://t.co/0kmeA5rOdM">https://t.co/0kmeA5rOdM</a></p>&mdash; すDo (@sudosan) <a href="https://twitter.com/sudosan/status/615041714235912192">2015, 6月 28</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+++++
