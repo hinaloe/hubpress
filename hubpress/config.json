@@ -1,1 +1,23 @@
-{"meta":{"username":"hinaloe","repositoryName":"hubpress","branch":"gh-pages"},"site":{"title":"HinaPress","description":"An another blog.","logo":"https://avatars.githubusercontent.com/u/5253290?v=3","cover":"https://i1.wp.com/blog.hinaloe.net/wp-content/uploads/2015/01/gochumon-wa-omikuzi-desu-ka-672x372.png","googleAnalytics":"UA-47280641-1","disqus":"hnletk","url":"https://hinaloe.github.io/hubpress"},"socialnetwork":{"twitter":"https://twitter.com/hnle0","facebook":"https://fb.me/h1naloe","github":"https://github.com/hinaloe"},"theme":{"name":"Saga","url":"//hinaloe.github.io/hubpress/themes/Saga"}}
+{
+  "meta": {
+    "username": "hinaloe",
+    "repositoryName": "hubpress",
+    "branch": "gh-pages"
+  },
+  "site": {
+    "title": "HinaPress",
+    "description": "An another blog.",
+    "logo": "https://avatars.githubusercontent.com/u/5253290?v=3",
+    "cover": "https://i1.wp.com/blog.hinaloe.net/wp-content/uploads/2015/01/gochumon-wa-omikuzi-desu-ka-672x372.png",
+    "googleAnalytics": "UA-47280641-1",
+    "disqus": "hnletk"
+  },
+  "socialnetwork": {
+    "twitter": "https://twitter.com/hnle0",
+    "facebook": "https://fb.me/h1naloe",
+    "github": "https://github.com/hinaloe"
+  },
+  "theme": {
+    "name": "saga"
+  }
+}
