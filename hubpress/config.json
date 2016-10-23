@@ -2,7 +2,8 @@
   "meta": {
     "username": "hinaloe",
     "repositoryName": "hubpress",
-    "branch": "gh-pages"
+    "branch": "gh-pages",
+    "cname": "hnle.tk/hubpress"
   },
   "site": {
     "title": "HinaPress",
