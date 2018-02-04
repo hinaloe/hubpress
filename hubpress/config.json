@@ -20,5 +20,21 @@
   },
   "theme": {
     "name": "ichi"
+  },
+  "urls": {
+    "site": "http://hubpress.hnle.tk",
+    "hubpress": "https://hubpress.hnle.tk",
+    "theme": "//hubpress.hnle.tk/themes/ichi",
+    "images": "http://hubpress.hnle.tk/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
