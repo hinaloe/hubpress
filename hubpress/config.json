@@ -3,7 +3,7 @@
     "username": "hinaloe",
     "repositoryName": "hubpress",
     "branch": "gh-pages",
-    "cname": "hubpress.hnle.tk"
+    "cname": "https://hubpress.hnle.tk"
   },
   "site": {
     "title": "HinaPress",
@@ -25,7 +25,7 @@
     "pinterest": "",
     "flickr": "",
     "linkedin": "",
-    "stackoverflow": ""
+    "stackoverflow": "https://ja.stackoverflow.com/users/2376/hinaloe"
   },
   "theme": {
     "name": "ichi"
