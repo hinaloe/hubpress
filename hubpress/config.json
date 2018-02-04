@@ -3,7 +3,7 @@
     "username": "hinaloe",
     "repositoryName": "hubpress",
     "branch": "gh-pages",
-    "cname": "https://hubpress.hnle.tk"
+    "cname": "hubpress.hnle.tk"
   },
   "site": {
     "title": "HinaPress",
@@ -31,10 +31,10 @@
     "name": "ichi"
   },
   "urls": {
-    "site": "http://hubpress.hnle.tk",
+    "site": "http://https://hubpress.hnle.tk",
     "hubpress": "https://hubpress.hnle.tk",
-    "theme": "//hubpress.hnle.tk/themes/ichi",
-    "images": "http://hubpress.hnle.tk/images"
+    "theme": "//https://hubpress.hnle.tk/themes/ichi",
+    "images": "http://https://hubpress.hnle.tk/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
