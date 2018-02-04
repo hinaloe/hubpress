@@ -3,7 +3,7 @@
     "username": "hinaloe",
     "repositoryName": "hubpress",
     "branch": "gh-pages",
-    "cname": "hubpress.hnle.tk"
+    "cname": "https://hubpress.hnle.tk"
   },
   "site": {
     "title": "HinaPress",
@@ -11,12 +11,21 @@
     "logo": "https://avatars.githubusercontent.com/u/5253290?v=3",
     "cover": "https://i1.wp.com/blog.hinaloe.net/wp-content/uploads/2015/01/gochumon-wa-omikuzi-desu-ka-672x372.png",
     "googleAnalytics": "UA-47280641-1",
-    "disqus": "hnletk"
+    "disqus": "hnletk",
+    "delay": "",
+    "postsPerPage": ""
   },
   "socialnetwork": {
     "twitter": "https://twitter.com/hnle0",
     "facebook": "https://fb.me/h1naloe",
-    "github": "https://github.com/hinaloe"
+    "github": "https://github.com/hinaloe",
+    "email": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
   },
   "theme": {
     "name": "ichi"
