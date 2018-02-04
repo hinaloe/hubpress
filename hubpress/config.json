@@ -31,10 +31,10 @@
     "name": "ichi"
   },
   "urls": {
-    "site": "http://https://hubpress.hnle.tk",
+    "site": "http://hubpress.hnle.tk",
     "hubpress": "https://hubpress.hnle.tk",
-    "theme": "//https://hubpress.hnle.tk/themes/ichi",
-    "images": "http://https://hubpress.hnle.tk/images"
+    "theme": "//hubpress.hnle.tk/themes/ichi",
+    "images": "http://hubpress.hnle.tk/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
