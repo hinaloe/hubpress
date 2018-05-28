@@ -13,7 +13,8 @@
     "googleAnalytics": "UA-47280641-1",
     "disqus": "hnletk",
     "delay": "",
-    "postsPerPage": ""
+    "postsPerPage": "",
+    "blogPath": ""
   },
   "socialnetwork": {
     "twitter": "https://twitter.com/hnle0",
@@ -25,7 +26,9 @@
     "pinterest": "",
     "flickr": "",
     "linkedin": "",
-    "stackoverflow": "https://ja.stackoverflow.com/users/2376/hinaloe"
+    "stackoverflow": "https://ja.stackoverflow.com/users/2376/hinaloe",
+    "paypalme": "",
+    "opencollective": ""
   },
   "theme": {
     "name": "uno"
@@ -49,5 +52,6 @@
     "beforeCreate": [
       null
     ]
-  }
+  },
+  "navigation": []
 }
