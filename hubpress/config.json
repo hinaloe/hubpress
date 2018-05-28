@@ -33,7 +33,7 @@
   "urls": {
     "site": "http://hubpress.hnle.tk",
     "hubpress": "https://hubpress.hnle.tk",
-    "theme": "//hubpress.hnle.tk/themes/ichi",
+    "theme": "//hubpress.hnle.tk/themes/uno",
     "images": "http://hubpress.hnle.tk/images"
   },
   "initialisationConfigComponent": {
@@ -43,6 +43,10 @@
     "staticRenderFns": [
       null,
       null,
+      null
+    ],
+    "_compiled": true,
+    "beforeCreate": [
       null
     ]
   }
